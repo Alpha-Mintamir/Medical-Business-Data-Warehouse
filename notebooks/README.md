@@ -1,6 +1,5 @@
-Here’s a `README.md` file that outlines the functionality and structure of your Jupyter notebooks, including the `data cleaning.ipynb` and `YOLLO.ipynb`. You can copy this markup directly into your `README.md` file:
 
-```markdown
+
 # Data Processing and Object Detection Notebooks
 
 This repository contains Jupyter notebooks for data processing and object detection tasks related to Ethiopian medical business data. The two main notebooks included are:
