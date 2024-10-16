@@ -1,6 +1,4 @@
-Here’s the entire `README.md` in one complete block of markup:
 
-```markdown
 # Ethiopian Medical Business Data Warehouse API
 
 Welcome to the **Ethiopian Medical Business Data Warehouse API**. This module provides a RESTful API for managing and querying medical business data, built using **FastAPI** and **PostgreSQL**.
