@@ -105,8 +105,3 @@ To set up the project locally, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Notes:
-- Make sure to replace `<repository-url>` with the actual URL of your GitHub repository.
-- Adjust the folder descriptions as necessary to provide more specific details about your project if needed.
-- Include any additional information that may be relevant to users of your project, such as specific data formats, required API keys, or environmental variables.
-- If you have specific usage examples for your scripts or notebooks, consider adding them to the Usage section for clarity.
